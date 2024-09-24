@@ -1,4 +1,5 @@
 - 👋 Hi, I’m said kourbisse
+- main github account : @saidkour
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning javascript and php
 - 💞️ I’m looking to collaborate on projet
